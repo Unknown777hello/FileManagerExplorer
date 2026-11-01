@@ -4,4 +4,3 @@ Pillow==13.0.0
 mutagen
 cryptography==50.0.2
 pypdf
-PyMuPDF==2.0
