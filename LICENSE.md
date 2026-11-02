@@ -1,195 +1,102 @@
-# FileManagerExplorer License v0.5.0
+FileManagerExplorer License v1.0
 
 Copyright (c) 2026 Unknown777hello (aka Unknown777)
 
 Repository: https://github.com/Unknown777hello/FileManagerExplorer
 
----
+日本語版 - FileManagerExplorer ソフトウェア使用許諾契約書
 
-# 日本語版 - FileManagerExplorer ソフトウェア使用許諾契約書
 
-## 第1条（個人利用）
-
+第1条（個人利用）
 本ソフトウェアは、個人による非商用利用に限り、無償で自由にインストールおよび使用することができます。
 
-本条における個人利用には、通常の使用、設定変更、動作確認および個人的な学習目的での利用を含みます。
-
-ただし、本契約に別途定める場合を除き、商用利用、組織内利用および再配布は禁止します。
-
-## 第2条（著作権およびソースコード）
-
-本ソフトウェアに関する著作権およびその他の知的財産権は、Unknown777hello に帰属します。
-
-インストーラー形式で配布される本ソフトウェアについて、逆コンパイル、逆アセンブル、リバースエンジニアリング、その他の方法による内部構造やソースコードの抽出を禁止します。ただし、適用される法律により禁止できない場合を除きます。
-
-Python形式で公開されているソースコードについては、個人による非商用利用、学習、検証およびレビューを目的として利用することができます。
-
-ただし、ソースコードの再配布、改変版の公開およびその他の第三者への提供については、第3条の規定に従うものとします。
-
-## 第3条（改変および再配布）
-
-本ソフトウェアの改変は、個人による非商用利用の範囲内で、個人の環境において行うことができます。
-
-ただし、改変した本ソフトウェア、改変済みソースコード、実行ファイル、インストーラーなどを第三者に配布または公開する場合は、事前に開発者の許可を得る必要があります。
-
-GitHub の Fork 機能については、閲覧、学習、検証および Pull Request を目的とする利用を認めます。
-
-ただし、Fork したリポジトリを独立したプロジェクトとして公開する場合や、GitHub 外で改変版を配布する場合は、事前に開発者の許可を得る必要があります。
-
-開発者から改変版の公開または再配布について許可を得た場合、以下の条件を満たす必要があります。
-
-1. FileManagerExplorer および FileSearchExplorer と混同されない別の名称を使用すること。
-2. 原作者が Unknown777hello であることを明記すること。
-3. 本ライセンスの全文（日本語版および英語版）を同梱または掲載すること。
-4. Python ソースコードを再配布する場合は、LICENSE.md、THIRD-PARTY-LICENSES.txt および README.txt を含めること。
-
-許可の申請は、GitHub の Issue から行うものとします。
-
-## 第4条（商用利用および組織利用）
-
-以下の利用については、事前に開発者の許可を得る必要があります。
-
-- 企業、法人、団体などによる利用
-- 業務目的での利用
-- 組織内での利用
-- 顧客や第三者への提供を目的とした利用
-- その他、商用または事業活動に関連する利用
-
-ただし、本ソフトウェアの紹介、レビュー、解説、チュートリアルなどを、収益化された YouTube、ブログ、SNS などで公開する行為は、それ自体を商用利用とはみなしません。
-
-## 第5条（免責事項）
-
-本ソフトウェアは「現状有姿（AS IS）」で提供されます。
-
-開発者は、本ソフトウェアについて、動作の完全性、正確性、特定目的への適合性、継続的な提供および不具合が発生しないことを保証しません。
-
-本ソフトウェアの使用または使用不能によって生じた損害について、開発者は、適用される法律で認められる範囲において責任を負いません。
-
-ただし、適用される法律により免責が認められない場合は、その法律の定めに従います。
-
-## 第6条（違反への対応）
-
-本契約に違反していることが確認された場合、開発者は、必要に応じて利用者に対して警告や修正を求めることがあります。
-
-違反が是正されない場合、開発者は、適用される法律および状況に応じて、必要な措置を講じることがあります。
-
-## 第7条（ライセンスの変更）
-
-開発者は、必要に応じて本ライセンスの内容を変更することがあります。
-
-変更後のライセンスは、GitHub リポジトリ上に公開された時点で有効となります。
-
-ただし、変更後のライセンスは、原則として変更後に公開・配布されたバージョンを新たにダウンロードした利用者に適用されます。
-
-変更前にダウンロードされたバージョンについて、変更後のライセンスを遡って適用することはありません。
-
-## 第8条（第三者ライセンス）
-
-本ソフトウェアに含まれる第三者製のライブラリ、ソフトウェアおよびその他のコンポーネントには、それぞれのライセンスが適用されます。
-
-第三者製コンポーネントについては、本ライセンスよりも各コンポーネントのライセンス条件が優先されます。
-
-詳細については、THIRD-PARTY-LICENSES.txt を確認してください。
-
-## 第9条（分離可能性）
-
-本ライセンスのいずれかの条項が、適用される法律により無効または執行不能と判断された場合でも、その他の条項は引き続き有効とします。
-
-## 第10条（準拠法）
-
-本ライセンスは、日本法に準拠して解釈されるものとします。
-
----
-
-# English Version - FileManagerExplorer Software License Agreement
-
-## Article 1 (Personal Use)
-
-This software may be installed and used free of charge for personal, non-commercial purposes.
-
-Personal use includes ordinary use, configuration changes, testing, and use for personal learning purposes.
-
-Unless otherwise specified in this Agreement, commercial use, organizational use, and redistribution are prohibited.
-
-## Article 2 (Copyright and Source Code)
-
-All copyrights and other intellectual property rights related to this software belong to Unknown777hello.
-
-For the installer-distributed version of this software, reverse engineering, decompilation, disassembly, and any other methods of extracting its internal structure or source code are prohibited, except where such restrictions are not permitted by applicable law.
-
-The Python source code made publicly available may be used for personal, non-commercial purposes, including learning, testing, and review.
-
-However, redistribution of the source code, publication of modified versions, and other forms of distribution to third parties are subject to Article 3.
-
-## Article 3 (Modification and Redistribution)
-
-Modification of this software is permitted within the scope of personal, non-commercial use and may be performed in the user's own environment.
-
-However, prior permission from the developer is required before distributing or publishing modified versions of this software, modified source code, executable files, installers, or other modified materials to third parties.
-
-Use of GitHub's Fork feature is permitted for viewing, learning, testing, and submitting Pull Requests.
-
-However, prior permission from the developer is required to publish a Fork as an independent project or to distribute modified versions outside GitHub.
-
-If permission to publish or redistribute a modified version is granted, the following conditions must be met:
-
-1. A name distinct from FileManagerExplorer and FileSearchExplorer must be used to avoid confusion.
-2. The original author, Unknown777hello, must be clearly credited.
-3. The complete text of this license, including both the Japanese and English versions, must be included or made available.
-4. When redistributing Python source code, LICENSE.md, THIRD-PARTY-LICENSES.txt, and README.txt must be included.
-
-Permission requests must be submitted through GitHub Issues.
-
-## Article 4 (Commercial and Organizational Use)
-
-Prior permission from the developer is required for the following uses:
-
-- Use by companies, corporations, organizations, or groups.
-- Use for business purposes.
-- Use within an organization.
-- Use for the purpose of providing the software to customers or other third parties.
-- Any other use related to commercial or business activities.
-
-However, introducing, reviewing, explaining, or creating tutorials about this software on monetized YouTube channels, blogs, social media, or similar platforms does not, by itself, constitute commercial use.
-
-## Article 5 (Disclaimer)
-
-This software is provided "AS IS".
-
-The developer makes no warranties regarding the completeness, accuracy, fitness for a particular purpose, continued availability, or error-free operation of this software.
-
-To the extent permitted by applicable law, the developer shall not be liable for any damages arising from the use or inability to use this software.
-
-Where applicable law does not permit such a disclaimer, the relevant legal provisions shall apply.
-
-## Article 6 (Violation and Response)
-
-If a violation of this Agreement is identified, the developer may issue a warning or request that the user correct the violation, as necessary.
-
-If the violation is not corrected, the developer may take appropriate measures depending on the circumstances and applicable law.
-
-## Article 7 (Changes to This License)
-
-The developer may modify the terms of this license when necessary.
-
-Any revised version of this license becomes effective when published in the GitHub repository.
-
-In principle, the revised license applies to users who newly download versions released or distributed after the revised license is published.
-
-Revisions to this license shall not be applied retroactively to versions downloaded before the changes.
-
-## Article 8 (Third-Party Licenses)
-
-Third-party libraries, software, and other components included in this software are subject to their respective licenses.
-
-The license terms of each third-party component take precedence over this Agreement with respect to that component.
-
-For details, please refer to THIRD-PARTY-LICENSES.txt.
-
-## Article 9 (Severability)
-
-If any provision of this Agreement is determined to be invalid or unenforceable under applicable law, the remaining provisions shall remain in effect.
-
-## Article 10 (Governing Law)
-
-This Agreement shall be governed by and interpreted in accordance with the laws of Japan.
+第2条（著作権とソースコードの公開）
+1. 本ソフトウェアの著作権は、Unknown777hello (aka Unknown777) に帰属します。
+2. インストーラー版(バイナリ版)のソースコードは非公開です。リバースエンジニアリング、逆コンパイル、バイナリからのソースコード抽出を禁じます。
+3. GitHub 上で公開される Python ソース公開版に限り、学習・検証・レビュー目的でのソースコードの閲覧およびローカルでの実行を許可します。ただし、次条以下の制限は Python 版にも同様に適用されます。
+
+第3条（改造・再配布）
+1. 本ソフトウェア(インストーラー版・Python版を含む)の改造版を作成し、再配布（バイナリ配布、ソースコード配布、フォーク公開を含む）することを希望する場合、事前に本リポジトリ https://github.com/Unknown777hello/FileManagerExplorer の GitHub Issue にて、Unknown777hello の許可を得なければなりません。
+2. 例外として、GitHub上でのFork機能による複製は、GitHub内での閲覧・学習・Pull Requestの作成目的に限り、許可なく行うことができます。ただし、ForkしたものをGitHub外で再配布、または別のリポジトリとして公開する場合は前項の許可が必要です。
+3. 改造・再配布が許可された場合、以下の条件をすべて遵守しなければなりません。
+   a) 改造版は、本家「FileManagerExplorer」と明確に区別できる別の名称に変更しなければなりません。
+   b) 改造版の配布物、アプリ内の「About / 情報」画面、または README 等の分かりやすい場所に、必ず以下のクレジットを表記しなければなりません。
+      Original by Unknown777hello - https://github.com/Unknown777hello/FileManagerExplorer
+   c) 本ライセンスの全文を同梱しなければなりません。
+   d) Python版を再配布する場合、LICENSE.md、THIRD-PARTY-LICENSES.txt、README.txt を必ず同梱しなければなりません。
+
+第4条（商用利用）
+1. 企業、法人、または商用目的での利用（業務利用、社内利用、顧客への提供を含む）を希望する場合は、事前に GitHub Issue にて Unknown777hello に連絡し、別途許可を得る必要があります。
+2. 例外：本ソフトウェアの紹介、レビュー、解説を目的とした YouTube動画、ブログ記事、SNS投稿等は、広告収入等の収益化を伴う場合であっても、商用利用とはみなさず、許可なく自由に行うことができます。
+
+第5条（免責）
+1. 本ソフトウェアは「現状有姿（AS IS）」で提供され、明示または黙示を問わず、商品性、特定目的への適合性、権利非侵害を含む、いかなる保証もありません。
+2. 本ソフトウェアはファイルの移動・削除・上書き・暗号化・完全消去などの操作を行います。適用される法律で許容される最大限の範囲において、本ソフトウェアの使用または使用不能から生じるいかなる損害（データの消失、暗号化したデータの復元不能（パスワード・回復キーの紛失を含む）、利益の損失、業務の中断、その他直接的・間接的・付随的・結果的損害を含む）についても、作者である Unknown777hello は一切の責任を負いません。重要なデータは、必ずバックアップを取ってからご利用ください。
+3. 前項の規定は、消費者契約法その他適用法令により免責が認められない場合には適用されません。
+
+第6条（違反への対応）
+本ライセンスに違反する利用が発見された場合、作者はまず GitHub Issue 等を通じて警告し、是正を求めるものとします。警告後、相当期間を経ても是正されない場合、必要な措置を講じることがあります。
+
+第7条（ライセンスの変更）
+1. 本ライセンスの内容は、作者が必要と判断した場合、変更されることがあります。
+2. 変更後のライセンスは、本リポジトリ上で公開された時点から効力を生じるものとし、変更後にダウンロードされたバージョンにのみ適用されます。既にダウンロードされ、利用されているバージョンに対して遡及して適用されることはありません。
+
+第8条（第三者ソフトウェア）
+本ソフトウェアが第三者のライブラリやコンポーネントを利用している場合、それらの部分については、それぞれのライセンス条項が本ライセンスに優先して適用されるものとします。詳細は THIRD-PARTY-LICENSES.txt を参照してください。
+
+第9条（他のソフトウェアとの連携）
+本ソフトウェアは、FileSearchExplorer など作者の他のソフトウェアと連携する機能を持つことがあります。連携先のソフトウェアの使用には、それぞれのライセンスが適用されます。
+
+第10条（分離可能性）
+本ライセンスの一部が無効または執行不能と判断された場合でも、残りの規定は引き続き有効とします。
+
+第11条（準拠法）
+本ライセンスは日本法に準拠し、解釈されるものとします。
+
+English Version - FileManagerExplorer Software License Agreement v1.0
+
+
+Article 1 (Personal Use)
+This software may be installed and used free of charge for personal, non-commercial purposes without limitation.
+
+Article 2 (Copyright and Source Code Availability)
+1. The copyright of this software belongs to Unknown777hello (aka Unknown777).
+2. The source code of the Installer (binary) version is not disclosed. Reverse engineering, decompiling, and extracting source code from binaries are prohibited.
+3. For the Python source-available version published on GitHub, viewing and local execution for learning, verification, and review purposes is permitted. Restrictions below apply equally.
+
+Article 3 (Modification and Redistribution)
+1. If you wish to create a modified version and redistribute it, you MUST obtain prior permission via GitHub Issue at https://github.com/Unknown777hello/FileManagerExplorer
+2. Exception: Forking on GitHub for viewing, learning, and Pull Request purposes is allowed without permission. However, redistributing the fork outside GitHub or as a separate repository requires permission under paragraph 1.
+3. If permission is granted, you must:
+   a) Use a different name clearly distinguishable from "FileManagerExplorer".
+   b) Display credit: Original by Unknown777hello - https://github.com/Unknown777hello/FileManagerExplorer
+   c) Include the full text of this license.
+   d) Include LICENSE.md, THIRD-PARTY-LICENSES.txt, README.txt for Python version.
+
+Article 4 (Commercial Use)
+1. Commercial use requires separate permission via GitHub Issue.
+2. Exception: Reviews, tutorials on YouTube, blogs, SNS are NOT considered commercial use even if monetized.
+
+Article 5 (Disclaimer)
+1. This software is provided "AS IS", without warranty of any kind.
+2. This software performs operations such as moving, deleting, overwriting, encrypting, and securely erasing files. To the maximum extent permitted by applicable law, in no event shall Unknown777hello be liable for any damages arising from use or inability to use this software, including data loss, unrecoverable encrypted data (including loss of passwords or recovery keys), loss of profits, or business interruption. Always back up important data before use.
+3. The above disclaimer does not apply where prohibited by applicable law, including consumer protection laws.
+
+Article 6 (Violation)
+If violation is found, author will first warn via GitHub Issue and request correction.
+
+Article 7 (Changes)
+1. This license may be changed.
+2. Revised license applies only to versions downloaded after publication. It will NOT apply retroactively to versions already downloaded.
+
+Article 8 (Third-Party Software)
+Third-party licenses take precedence for those parts. See THIRD-PARTY-LICENSES.txt.
+
+Article 9 (Integration with Other Software)
+This software may provide features that integrate with other software by the author, such as FileSearchExplorer. The use of such software is governed by its own license.
+
+Article 10 (Severability)
+If any provision is invalid, the remaining provisions remain effective.
+
+Article 11 (Governing Law)
+Governed by Japanese law.
