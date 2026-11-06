@@ -5,7 +5,7 @@
 ファイルやフォルダの閲覧、コピー、切り取り、削除など、日常的なファイル管理を効率よく行えることを目的として開発しています。
 
 ## ダウンロード先
-[https://github.com/Unknown777hello/FileManagerExplorer/releases/new](url)
+[https://github.com/Unknown777hello/FileManagerExplorer/releases/](url)
 
 ## 概要
 
