@@ -1,5 +1,0 @@
-tkinterdnd2==0.6.4
-Send2Trash==2.1.0
-Pillow==13.0.0
-cryptography==50.0.2
-pypdf
