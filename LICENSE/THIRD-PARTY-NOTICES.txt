@@ -1,23 +1,23 @@
-\xef\xbb\xbfFileManagerExplorer - 使用しているライブラリのライセンス
-=========================================================
+# FileManagerExplorer - 使用しているライブラリのライセンス
 
-このフォルダーには、FileManagerExplorer が使用・同梱しているライブラリの
-ライセンス文を入れています。(FileManagerExplorer 自体のライセンス文は含みません)
+このフォルダーには、FileManagerExplorer が使用・同梱しているライブラリのライセンス文を入れています。
+（FileManagerExplorer 自体のライセンス文は含みません）
 
-ライブラリ        確認したバージョン  ライセンス                      ファイル
-----------------  ------------------  ------------------------------  ------------------------------
-tkinterdnd2       0.7.0               MIT License                     tkinterdnd2-LICENSE.txt
-send2trash        2.1.0               BSD 3-Clause                    send2trash-LICENSE.txt
-Pillow            13.0.0              MIT-CMU(HPND 系)               Pillow-LICENSE.txt
-cryptography      50.0.2              Apache-2.0 または BSD 3-Clause  cryptography-LICENSE*.txt
-pypdf             6.21.4              BSD 3-Clause                    pypdf-LICENSE.txt
-Python            3.12                PSF License                     Python-LICENSE.txt
+| ライブラリ | 確認したバージョン | ライセンス | ファイル |
+|---|---:|---|---|
+| tkinterdnd2 | 0.6.4 | MIT License | tkinterdnd2-LICENSE.txt |
+| Send2Trash | 2.1.0 | BSD 3-Clause | send2trash-LICENSE.txt |
+| Pillow | 13.0.0 | MIT-CMU（HPND系） | Pillow-LICENSE.txt |
+| cryptography | 50.0.2 | Apache-2.0 または BSD 3-Clause | cryptography-LICENSE*.txt |
+| pypdf | 6.21.4 | BSD 3-Clause | pypdf-LICENSE.txt |
+| Python | 3.12 | PSF License | Python-LICENSE.txt |
 
-- ライセンス文は、各ライブラリの公式の配布物(PyPI の wheel)に入っているものです。
-- バージョンは、このファイルを作った時点のものです。ビルド時に入ったバージョンは、
-  `pip list` で確認できます。大きく変わったときは、ライセンス文も取り直してください。
-- Pillow のライセンス文には、Pillow が同梱する他のライブラリ(FreeType など)の
-  ライセンスも含まれています。
-- exe には、上のほかに、次のものも含まれます。ライセンス文は、このフォルダーには入れていません。
-    ・Tcl/Tk(BSD 系のライセンス)
-    ・PyInstaller の起動部分(bootloader。GPL に、配布物へ組み込むための例外が付いています)
+- ライセンス文は、各ライブラリの公式配布物（PyPI の wheel など）をもとに確認しています。
+- バージョンは、このファイルを作成した時点で確認したものです。実際にビルドで使用したバージョンは、ビルド環境で `python -m pip freeze` を実行して確認してください。
+- バージョンを変更した場合は、ライセンス条件やライセンス文も再確認してください。
+- Pillow のライセンス文には、Pillow が利用・同梱する他のライブラリ（FreeType など）に関するライセンス情報が含まれる場合があります。
+- EXE に同梱される構成によっては、上記以外にもライセンス確認が必要なコンポーネントがあります。現時点で確認対象となっているものは次のとおりです。
+  - Tcl/Tk（BSD 系のライセンス）
+  - PyInstaller の bootloader（GPL に配布物への組み込みに関する例外が付属）
+
+※ Tcl/Tk や PyInstaller のライセンス文についても、実際のビルド・配布物に含まれるものを確認し、必要に応じて別途同梱してください。
